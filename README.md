@@ -1,4 +1,4 @@
-Here's the README file content for your Automated Email Sender GitHub repository:
+\\
 
 ---
 
